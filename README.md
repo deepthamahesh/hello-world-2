@@ -1,6 +1,6 @@
 # hello-world-2
 FINAL
-DEEPTHA 110117050
+DEEPTHA MAHESH 110117050
 I am **Deeptha Mahesh** 
 I study B tech ICE 1st year at *NITT*
 My hometown is ***Chennai***
@@ -44,5 +44,4 @@ void main()
 
  }
 
-MAHESH
-110117050
+
